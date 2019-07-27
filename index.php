@@ -103,7 +103,7 @@ $teraz = date("d.m.Y H:i:s", $prevedeny );
 		
         <br>
         <b>Meno: admin</b><br>
-        <b>Heslos: admin</b>
+        <b>Heslo: admin</b>
         <input id="username" name="username" placeholder="Užívateľské meno" type="text" class="login-form__username" autocorrect="off" autocapitalize="off" spellcheck="false" required>
         <input id="password" name="password" placeholder="Heslo" type="password" class="login-form__password" required>
         
@@ -113,16 +113,7 @@ $teraz = date("d.m.Y H:i:s", $prevedeny );
        
         </form>
 	<?php  }  ?>
-        
-        
-           
-  
-     
-  
-     
-     
-
-        <div class="login-window__loader-container hidden">
+<div class="login-window__loader-container hidden">
             <div class="loader-container__spinner"></div>
             <div class="loader-container__text-container">
                 <div class="text-container__title"></div>
@@ -130,10 +121,4 @@ $teraz = date("d.m.Y H:i:s", $prevedeny );
             </div>
         </div>
     </div>
-
-
-
-
-
-
 </body></html>

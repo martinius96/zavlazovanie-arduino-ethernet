@@ -26,7 +26,7 @@
     </div>
     <div class="login-container__login-window">
         <div class="login-window__icon-container">
-            <img class="icon-container__img" src="https://i.nahraj.to/f/272w.png">
+            <img class="icon-container__img" src="icon.png">
         </div>
         
         

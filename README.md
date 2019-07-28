@@ -1,4 +1,4 @@
-# zavlazovanie-arduino-ethernet
+# Zavlažovanie - Arduino Mega 2560 + Ethernet W5100
 Webová aplikácia postavená na mikrokontroléri Arduino Mega 2560 s Ethernet konektivitou do webového rozhrania slúžiaceho na správu celého projektu
 # Systém ponúka:
 * Real-time výpis hodnôt, stavov, režimov všetkých výstupov, senzorov, prehľad konektivity Arduina

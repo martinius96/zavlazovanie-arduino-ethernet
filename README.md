@@ -10,5 +10,6 @@ Webová aplikácia postavená na mikrokontroléri Arduino Mega 2560 s Ethernet k
 * Vzdialený reštart Arduina
 # Screenshoty systému
 ![Prehľad](https://i.nahraj.to/f/23a7.PNG)
-![Prehľad](https://i.nahraj.to/f/23a6.PNG)
-![Prehľad](https://i.nahraj.to/f/23a4.PNG)
+![Prehľad 2](https://i.nahraj.to/f/23a6.PNG)
+![Zmena názvov](https://i.nahraj.to/f/23a5.PNG)
+![Ovládací panel automatickej závlahy](https://i.nahraj.to/f/23a4.PNG)

@@ -1,4 +1,5 @@
 # Zavlažovanie - Arduino Mega 2560 + Ethernet W5100
+**Používaním projektu sa osoba zaväzuje k dodržiavaniu zmluvných podmienok MIT licencie, pod ktorou je projekt šírený! Uvedomuje si riziká, obmedzenia a svoje povinnosti. Všeobecne o MIT licencii: https://sk.wikipedia.org/wiki/MIT_licencia**
 Webová aplikácia postavená na mikrokontroléri Arduino Mega 2560 s Ethernet konektivitou do webového rozhrania slúžiaceho na správu celého projektu
 # Systém ponúka:
 * Real-time výpis hodnôt, stavov, režimov všetkých výstupov, senzorov, prehľad konektivity Arduina

@@ -16,6 +16,8 @@
 * v súbore system/connect.php zmeniť prihlasovacie údaje k MySQL databáze --> host, username, password, db_name
 * Webaplikácia je pripravená na použitie s loginom --> **meno: admin heslo: admin**
 * Súčasťou webaplikácie je aj zdrojový kód pre mikrokontróler v ktorom je potrebné zmeniť relatívnu cestu a hosta, kde webaplikácia beží
+* Zdrojový kód pre mikrokontróler je možné nahrať cez prostredie Arduino IDE
+* PHP scripty sú validné pre verziu 5.6 / 7
 
 # Screenshoty systému
 ![Prehľad posledných údajov - Zavlažovanie](https://i.nahraj.to/f/23a7.PNG)
